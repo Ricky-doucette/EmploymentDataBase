@@ -1,10 +1,6 @@
 /*
 EnrollJDBC.java - JDBC program for accessing and updating an enrollment database on MySQL.
 
-Lab Assignment #6
-
-Student name: 	<Ricky Doucette>
-University id:	<74940750>
 */
 
 import java.io.File;
